@@ -1,4 +1,4 @@
-# Course Selling App - Backend Assignment
+# Course Selling App - Backend 
 
 ## Description
 This project is a simple course-selling application that supports two types of users:
